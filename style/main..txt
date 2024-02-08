@@ -1,0 +1,1550 @@
+/* ДИЗАЙН1 */
+
+position: relative;
+width: 1080px;
+height: 14498px;
+
+background: linear-gradient(180.09deg, #E4CFBC 19.84%, #D5D1CD 99.93%);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1126px;
+height: 13371px;
+left: -44px;
+top: 1195px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 54 */
+
+position: absolute;
+width: 136px;
+height: 23px;
+left: -25px;
+top: 1812px;
+
+background: #E4CFBC;
+
+
+/* , */
+
+position: absolute;
+width: 141px;
+height: 610px;
+left: 26px;
+top: 7359px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 500px;
+line-height: 121.92%;
+/* identical to box height, or 610px */
+
+color: #000000;
+
+
+
+/* Доверьте свою красоту и здоровье мне, и я обещаю, что вы не пожалеете о своем выборе. */
+
+position: absolute;
+width: 372px;
+height: 185px;
+left: 142px;
+top: 7817px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #000000;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 534px;
+height: 638.2px;
+left: 525px;
+top: 7578px;
+
+background: url(IMG_1033);
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 313px;
+height: 638px;
+left: 746px;
+top: 7578px;
+
+background: url(IMG_2681);
+
+
+/* Ваше здоровье и безопасность — непременное условие моей работы. Все препараты, которые я использую в своем кабинете, абсолютно безвредны и подтверждены сертификатами премиальных брендов. Мои клиенты ценят такой подход — а я бесконечно ценю каждого из них.Приходите и испытайте восхитительное удовольствие профессионального ухода! */
+
+position: absolute;
+width: 920px;
+height: 296px;
+left: calc(50% - 920px/2);
+top: 6830px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #242424;
+
+
+
+/* КНОПКА ЗАПИСАТЬСЯ */
+
+position: absolute;
+width: 540px;
+height: 92px;
+left: calc(50% - 540px/2);
+top: 7267px;
+
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 540px;
+height: 92px;
+left: calc(50% - 540px/2);
+top: 7267px;
+
+background: #AAAFAB;
+border-radius: 44px;
+
+
+/* ЗАПИСАТЬСЯ */
+
+position: absolute;
+width: 283px;
+height: 50px;
+left: calc(50% - 283px/2 - 0.5px);
+top: 7288px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 41px;
+line-height: 121.92%;
+/* identical to box height, or 50px */
+
+color: #FFFFFF;
+
+
+
+/* Для каждого и для каждой из моих клиентов гарантированы: первоклассный (при этом доступный) сервис, абсолютный психологический комфорт, максимальное расслабление во время процедуры. Мы заранее обговариваем план вашей красивой метаморфозы — и вы всегда знаете, какими будут процесс и результат.Спешить некуда: приходите, отдыхайте, а затем наслаждайтесь своей красотой. */
+
+position: absolute;
+width: 920px;
+height: 333px;
+left: calc(50% - 920px/2 - 3px);
+top: 5445px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #242424;
+
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 22px;
+top: 5905.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 22px;
+top: 6049.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 22px;
+top: 6193.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 18px;
+top: 6337.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 23px;
+top: 6481.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 18px;
+top: 6625.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 552px;
+top: 5901.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 552px;
+top: 6049.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 552px;
+top: 6193.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 552px;
+top: 6337.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 552px;
+top: 6481.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 552px;
+top: 6625.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Мезотерапия */
+
+position: absolute;
+width: 166px;
+height: 30px;
+left: 122px;
+top: 5896px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Избавление от мимических морщин */
+
+position: absolute;
+width: 344px;
+height: 60px;
+left: 652px;
+top: 5881px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Программы похудения */
+
+position: absolute;
+width: 285px;
+height: 30px;
+left: 652px;
+top: 6040px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Восстановление кожи после ультрафиолета */
+
+position: absolute;
+width: 408px;
+height: 60px;
+left: 652px;
+top: 6169px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Химические пилинги */
+
+position: absolute;
+width: 260px;
+height: 30px;
+left: 652px;
+top: 6328px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Капельницы */
+
+position: absolute;
+width: 155px;
+height: 30px;
+left: 652px;
+top: 6472px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Мужской уход */
+
+position: absolute;
+width: 180px;
+height: 30px;
+left: 641px;
+top: 6616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Биоревитализация */
+
+position: absolute;
+width: 235px;
+height: 30px;
+left: 122px;
+top: 6040px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Лечение акне и постакне */
+
+position: absolute;
+width: 313px;
+height: 30px;
+left: 122px;
+top: 6184px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Плацентотерапия */
+
+position: absolute;
+width: 221px;
+height: 30px;
+left: 122px;
+top: 6328px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Армирование и подтяжка лица мезонитями */
+
+position: absolute;
+width: 323px;
+height: 60px;
+left: 122px;
+top: 6472px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Аппаратные процедуры */
+
+position: absolute;
+width: 300px;
+height: 30px;
+left: 122px;
+top: 6616px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* МОИ ДОСТИЖЕНИЯ ЗА ПОСЛЕДНИЙ ГОД */
+
+position: absolute;
+width: 663px;
+height: 146px;
+left: calc(50% - 663px/2 - 104.5px);
+top: 3511px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 121.92%;
+/* or 73px */
+
+color: #DBB2BA;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 3805.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 4006.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 4207.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 4408.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 4609.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 4853.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 5040.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 52px;
+top: 5241.67px;
+
+background: #DBB2BA;
+transform: rotate(-36.68deg);
+
+
+/* Май 2022 год */
+
+position: absolute;
+width: 280px;
+height: 49px;
+left: 148px;
+top: 3752px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Июнь 2022 год */
+
+position: absolute;
+width: 305px;
+height: 49px;
+left: 148px;
+top: 3953px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Ноябрь 2022 год */
+
+position: absolute;
+width: 349px;
+height: 49px;
+left: 148px;
+top: 4154px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Ноябрь 2022 год */
+
+position: absolute;
+width: 349px;
+height: 49px;
+left: 148px;
+top: 4355px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Февраль 2023 год */
+
+position: absolute;
+width: 379px;
+height: 49px;
+left: 148px;
+top: 4558px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Февраль 2023 год */
+
+position: absolute;
+width: 379px;
+height: 49px;
+left: 148px;
+top: 4816px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Март 2023 год */
+
+position: absolute;
+width: 305px;
+height: 49px;
+left: 148px;
+top: 4987px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* Апрель 2023 год */
+
+position: absolute;
+width: 351px;
+height: 49px;
+left: 148px;
+top: 5188px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 121.92%;
+/* identical to box height, or 49px */
+
+color: #DBB2BA;
+
+
+
+/* повышение квалификации: ботулинотерапия нижней трети лица, гипергидроз (Атмосфера Красоты, Калининград) */
+
+position: absolute;
+width: 740px;
+height: 60px;
+left: 148px;
+top: 3801px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* нитевой тредлифтинг (Ли Дин, 1st Center of Korean Medicine, Санкт-Петербург) */
+
+position: absolute;
+width: 740px;
+height: 60px;
+left: 148px;
+top: 4002px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* нитевой тредлифтинг (Ли Дин, 1st Center of Korean Medicine, Санкт-Петербург) */
+
+position: absolute;
+width: 740px;
+height: 60px;
+left: 148px;
+top: 4203px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* методика БТА и неотложные состояния в косметологии (Егорова Марина, Санкт-Петербург) */
+
+position: absolute;
+width: 740px;
+height: 60px;
+left: 148px;
+top: 4406px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* государственный диплом о профессиональной подготовке, педагог дополнительного образования в сфере косметологии (Международная Академия косметологии, Москва) */
+
+position: absolute;
+width: 740px;
+height: 120px;
+left: 148px;
+top: 4604px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* контурная пластика (Светлана Яловенко, Москва) */
+
+position: absolute;
+width: 619px;
+height: 30px;
+left: 148px;
+top: 4865px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* нитевой тредлифтинг (Андрей Беляев, White Medience, WMC23, Калининград) */
+
+position: absolute;
+width: 690px;
+height: 60px;
+left: 148px;
+top: 5036px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* полное техническое обучение по пластической хирургии нитевого лифтинга (Алексей Кодяков, WhiteMedience, WMC23, Москва) */
+
+position: absolute;
+width: 690px;
+height: 90px;
+left: 148px;
+top: 5237px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 121.92%;
+/* or 30px */
+
+color: #242424;
+
+
+
+/* Line 7 */
+
+position: absolute;
+width: 933px;
+height: 0px;
+left: 52px;
+top: 3665px;
+
+border: 2px solid #222222;
+
+
+/* Я всегда учусь. У меня медицинское образование и постоянное повышение квалификации. Конференции в России и за рубежом. Я непрерывно держу руку на пульсе современной косметологии — она развивается стремительно, и важно за ней успевать! Моим клиентам доступны самые передовые методики и и естественная эстетика, которая все больше ценится в сегодняшнем мире.  */
+
+position: absolute;
+width: 966px;
+height: 260px;
+left: calc(50% - 966px/2);
+top: 3005px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #000000;
+
+
+
+/* > 60 реальные видеообзоры в Инстаграм */
+
+position: absolute;
+width: 426px;
+height: 131px;
+left: calc(50% - 426px/2 + 59px);
+top: 2384px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 121.92%;
+/* or 61px */
+
+color: #1D1D1D;
+
+
+
+/* 5.0 рейтинг в ZOON */
+
+position: absolute;
+width: 324px;
+height: 85px;
+left: 386px;
+top: 2784px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 121.92%;
+/* or 61px */
+
+color: #1D1D1D;
+
+
+
+/* + 25 лет работы в отрасли */
+
+position: absolute;
+width: 324px;
+height: 103px;
+left: calc(50% - 324px/2 + 8px);
+top: 2542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 121.92%;
+/* or 73px */
+
+color: #1D1D1D;
+
+
+
+/* 100 % Индивидуальный подход */
+
+position: absolute;
+width: 324px;
+height: 85px;
+left: 386px;
+top: 2672px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 121.92%;
+/* or 61px */
+
+color: #1D1D1D;
+
+
+
+/* Line 14 */
+
+position: absolute;
+width: 479px;
+height: 0px;
+left: 268px;
+top: 2384px;
+
+border: 5px solid #1D1D1D;
+transform: rotate(90deg);
+
+
+/* Мне 53, и я точно знаю, как стареть без ущерба для красоты. Выглядеть молодо, ухоженно и при этом естественно — это искусство. И я владею им в полной мере, чтобы вы каждый день смотрели в зеркало с удовольствием. */
+
+position: absolute;
+width: 966px;
+height: 151px;
+left: calc(50% - 966px/2 + 8px);
+top: 1249px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #0E0E0E;
+
+
+
+/* Пока другие безрассудно заливают лица филлерами, я работаю с морфологией лица — а она связана с характером человека, его темпераментом, мимикой, привычками. Я не леплю одинаковых красоток с лицами биороботов.Я работаю с личностью. Я делаю каждую из вас самой собой — в вашей лучшей возможной версии. Более 500 положительных отзывов от моих клиентов подтверждают этот подход. Хотите по-настоящему заняться собой? Записывайтесь на консультацию, и мы начнем ваше преображение! */
+
+position: absolute;
+width: 966px;
+height: 339px;
+left: calc(50% - 966px/2 + 8px);
+top: 1650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #0E0E0E;
+
+
+
+/* Frame 7 */
+
+position: absolute;
+width: 115px;
+height: 198px;
+left: calc(50% - 115px/2 + 7.5px);
+top: 1426px;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 159px;
+height: 0px;
+left: calc(50% - 159px/2 + 72px);
+top: 21px;
+
+border: 1px solid #0E0E0E;
+transform: rotate(90deg);
+
+
+/* КНОПКА ЗАПИСАТЬСЯ */
+
+position: absolute;
+width: 540px;
+height: 92px;
+left: calc(50% - 540px/2);
+top: 2102px;
+
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 540px;
+height: 92px;
+left: calc(50% - 540px/2);
+top: 2102px;
+
+background: #AAAFAB;
+border-radius: 44px;
+
+
+/* ЗАПИСАТЬСЯ */
+
+position: absolute;
+width: 283px;
+height: 50px;
+left: calc(50% - 283px/2 - 0.5px);
+top: 2123px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 41px;
+line-height: 121.92%;
+/* identical to box height, or 50px */
+
+color: #FFFFFF;
+
+
+
+/* PNG */
+
+position: absolute;
+width: 970px;
+height: 1215px;
+left: calc(50% - 970px/2 + 215px);
+top: -20px;
+
+background: url(photo_2023-08-08_23-56-43);
+
+
+/* ТАТЬЯНА ЛЕКСУС */
+
+position: absolute;
+width: 751px;
+height: 244px;
+left: calc(50% - 751px/2 - 130.5px);
+top: 244px;
+
+font-family: 'Supernatural KG';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 121.92%;
+/* or 122px */
+
+color: #FFFFFF;
+
+
+
+/* фильтры вам больше не понадобятся! */
+
+position: absolute;
+width: 356px;
+height: 93px;
+left: 90px;
+top: 687px;
+
+font-family: 'Supernatural KG';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 38px;
+
+color: #2E2E2E;
+
+
+
+/* апап 1 */
+
+position: absolute;
+width: 1252px;
+height: 1724px;
+left: calc(50% - 1252px/2 + 42px);
+top: 11050px;
+
+background: url(апап);
+
+
+/* апаппа 1 */
+
+position: absolute;
+width: 1166px;
+height: 1606px;
+left: calc(50% - 1166px/2);
+top: 8326px;
+
+background: url(апаппа);
+
+
+/* текст:вся продукция сертифицированна... */
+
+position: absolute;
+width: 990px;
+height: 309px;
+left: calc(50% - 990px/2);
+top: 10043px;
+
+
+
+/* white 1 */
+
+position: absolute;
+width: 284px;
+height: 33px;
+left: 45px;
+top: 10309px;
+
+background: url(white.png);
+
+
+/* filorga 1 */
+
+position: absolute;
+width: 206px;
+height: 29px;
+left: calc(50% - 206px/2 - 75px);
+top: 10313px;
+
+background: url(filorga.png);
+
+
+/* bps 1 */
+
+position: absolute;
+width: 210px;
+height: 48px;
+left: 594px;
+top: 10304px;
+
+background: url(bps.png);
+
+
+/* abglag 1 */
+
+position: absolute;
+width: 200px;
+height: 38px;
+left: 835px;
+top: 10302px;
+
+background: url(abglag.png);
+
+
+/* Вся продукция сертифицирована и имеет соответствующие документы, подтверждающие ее качество и безопасность.Я гарантирую, что каждый препарат, который вы приобретаете у меня, будет эффективным и безопасным для вашего здоровья */
+
+position: absolute;
+width: 884px;
+height: 185px;
+left: calc(50% - 884px/2 + 6px);
+top: 10043px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 121.92%;
+/* or 37px */
+
+color: #242424;
+
+
+
+/* текст и название инстаграма */
+
+position: absolute;
+width: 962px;
+height: 449px;
+left: calc(50% - 962px/2);
+top: 10506px;
+
+
+
+/* Для каждого клиента индивидуальный подход. */
+
+position: absolute;
+width: 896px;
+height: 46px;
+left: 101px;
+top: 10506px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 38px;
+line-height: 121.92%;
+/* or 46px */
+
+color: #000000;
+
+
+
+/* Я очень горжусь своими результатами работы. Они превосходят ожидания. Все для вас и вашего вдохновения.Обращайтесь. */
+
+position: absolute;
+width: 920px;
+height: 138px;
+left: 101px;
+top: 10624px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 38px;
+line-height: 121.92%;
+/* or 46px */
+
+color: #000000;
+
+
+
+/* LEXUSBEAUTY_OFFICIAL */
+
+position: absolute;
+width: 554px;
+height: 55px;
+left: 202px;
+top: 10867px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 121.92%;
+/* identical to box height, or 55px */
+
+color: #000000;
+
+
+
+/* l+ 1 */
+
+position: absolute;
+width: 119px;
+height: 121px;
+left: 59px;
+top: 10834px;
+
+background: url(l+.png);
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1245px;
+height: 526.44px;
+left: calc(50% - 1245px/2 + 0.5px);
+top: 12829px;
+
+
+
+/* photo_2023-08-09_20-58-38 */
+
+position: absolute;
+left: 88.56%;
+right: -7.69%;
+top: 88.52%;
+bottom: 7.91%;
+
+background: url(photo_2023-08-09_20-58-38);
+
+
+/* photo_2023-08-09_20-58-39 (3) */
+
+position: absolute;
+left: 69.3%;
+right: 11.57%;
+top: 88.49%;
+bottom: 7.94%;
+
+background: url(photo_2023-08-09_20-58-39 (3));
+
+
+/* photo_2023-08-09_20-58-40 (2) */
+
+position: absolute;
+left: 50.05%;
+right: 30.7%;
+top: 88.49%;
+bottom: 7.91%;
+
+background: url(photo_2023-08-09_20-58-40 (2));
+
+
+/* photo_2023-08-09_20-58-40 */
+
+position: absolute;
+left: 30.79%;
+right: 49.95%;
+top: 88.49%;
+bottom: 7.91%;
+
+background: url(photo_2023-08-09_20-58-40);
+
+
+/* photo_2023-08-09_20-58-39 */
+
+position: absolute;
+left: 11.66%;
+right: 69.21%;
+top: 88.52%;
+bottom: 7.91%;
+
+background: url(photo_2023-08-09_20-58-39);
+
+
+/* photo_2023-08-09_20-58-39 (2) */
+
+position: absolute;
+left: -7.59%;
+right: 88.34%;
+top: 88.52%;
+bottom: 7.88%;
+
+background: url(photo_2023-08-09_20-58-39 (2));
+
+
+/* Group 3 */
+
+position: absolute;
+width: 777px;
+height: 328px;
+left: 49px;
+top: 13480px;
+
+
+
+/* СВЯЗЬ СО МНОЙ: */
+
+position: absolute;
+width: 701px;
+height: 96px;
+left: calc(50% - 701px/2 - 140.5px);
+top: 13480px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 79px;
+line-height: 121.92%;
+/* or 96px */
+
+color: #DBB2BA;
+
+
+
+/* Rectangle 49 */
+
+position: absolute;
+width: 155px;
+height: 155px;
+left: calc(50% - 155px/2 + 48.5px);
+top: 13653px;
+
+background: url(unnamed-DAzXbT1fH-transformed.png);
+
+
+/* Rectangle 50 */
+
+position: absolute;
+width: 155px;
+height: 155px;
+left: calc(50% - 155px/2 - 89.5px);
+top: 13653px;
+
+background: url(1200x630wa-transformed);
+
+
+/* Rectangle 51 */
+
+position: absolute;
+width: 155px;
+height: 155px;
+left: calc(50% - 155px/2 + 208.5px);
+top: 13653px;
+
+background: url(Без_названия-pt0VNQmIp-transformed.png);
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 111px;
+height: 111px;
+left: calc(50% - 111px/2 - 216.5px);
+top: 13675px;
+
+background: url(5968835.png);

@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Supernatural KG';
+	src: url('../fonts/supernatural_kg.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/supernatural_kg.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/supernatural_kg.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/supernatural_kg.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/supernatural_kg.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/supernatural_kg.svg#supernatural_kg') format('svg'); /* Chrome < 4, Legacy iOS */
+}
